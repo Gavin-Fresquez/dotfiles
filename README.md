@@ -13,3 +13,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 ##### tpm
   ```bash
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpi
+```
+^s I (to install plugins for tmux)
