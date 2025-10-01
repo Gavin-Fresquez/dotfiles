@@ -1,0 +1,9 @@
+[user]
+	name = gavin-fresquez
+	email = gavinfresquez@gmail.com
+[init]
+	defaultBranch = main
+[alias]
+	gs = git status
+	ga = git add .
+	gc = git clone
